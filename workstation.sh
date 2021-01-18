@@ -18,7 +18,8 @@ sudo apt update
 ## Installing Deb Packages
 sudo apt install python3 python3-pip wine nautilus-dropbox docker docker-compose git build-essential libssl-dev flatpak gnome-software-plugin-flatpak -y 
 
-## Instalando com APT GET
+## Instalando com APT
+sudo apt install tor
 sudo apt-get install enpass
 sudo apt-get install google-chrome-stable
 
