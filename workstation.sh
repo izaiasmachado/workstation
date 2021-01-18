@@ -20,6 +20,7 @@ sudo apt install python3 python3-pip wine nautilus-dropbox docker docker-compose
 
 ## Instalando com APT
 sudo apt install tor
+sudo apt install default-jre
 sudo apt-get install enpass
 sudo apt-get install google-chrome-stable
 
