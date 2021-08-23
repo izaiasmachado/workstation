@@ -32,6 +32,7 @@ sudo snap install code --classic
 sudo snap install insomnia  
 sudo snap install spotify
 sudo snap install vlc
+sudo snap install slack --classic
 
 ## Install Apps from Flathub
 sudo flatpak install flathub com.obsproject.Studio -y
