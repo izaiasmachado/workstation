@@ -33,9 +33,11 @@ sudo snap install insomnia
 sudo snap install spotify
 sudo snap install vlc
 sudo snap install slack --classic
+sudo snap install teams
 
 ## Install Apps from Flathub
 sudo flatpak install flathub com.obsproject.Studio -y
+flatpak install flathub org.remmina.Remmina
 
 ## MongoDB Compass
 wget https://downloads.mongodb.com/compass/mongodb-compass_1.25.0_amd64.deb
