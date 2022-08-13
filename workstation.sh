@@ -26,6 +26,8 @@ sudo apt-get install enpass
 sudo apt-get install google-chrome-stable
 
 ## Instalando pacotes Snap
+sudo apt update
+sudo apt install snapd
 sudo snap install node --classic
 sudo snap install discord
 sudo snap install code --classic  
@@ -34,6 +36,7 @@ sudo snap install spotify
 sudo snap install vlc
 sudo snap install slack --classic
 sudo snap install teams
+sudo snap install notion-snap
 
 ## Install Apps from Flathub
 sudo flatpak install flathub com.obsproject.Studio -y
