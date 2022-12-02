@@ -1,0 +1,10 @@
+[user]
+	name = Izaias Machado
+	email = izaiasmachado.dev@gmail.com
+	username = izaiasmachado
+		
+[core]
+	excludesfile = /Users/izaias/.gitignore_global
+
+[web]
+	browser = google-chrome
