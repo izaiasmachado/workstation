@@ -1,2 +1,3 @@
-# Workstation Script
-All in one script to setup my work machines
+# My Dotfiles
+
+Scripts and configs to setup symlessly my work machines
