@@ -1,15 +1,16 @@
-export ZSH="$HOME/.oh-my-zsh"
+export ZSH=$HOME/.oh-my-zsh
 
 ZSH_THEME="robbyrussell"
 plugins=(nvm)
 source $ZSH/oh-my-zsh.sh
 
-export PATH=/opt/homebrew/bin:$PATH
 export PATH=/bin:/sbin:/usr/bin:/usr/local/sbin:/usr/local/bin:$PATH
+export PATH=/opt/homebrew/bin:$PATH
+export PATH="/usr/local/bin:$PATH"
 export EDITOR='subl -w'
-
+export JAVA_HOME=`/usr/libexec/java_home -v 20`
 export NVM_DIR=~/.nvm
-source $(brew --prefix nvm)/nvm.sh
+# source $(brew --prefix nvm)/nvm.sh
 
 export PATH="$PATH:$HOME/.yarn/bin"
 
